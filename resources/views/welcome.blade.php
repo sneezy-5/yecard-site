@@ -48,7 +48,7 @@
       	<div class="overlay"></div>
         <div class="container-fluid p-0">
           <div class="row d-md-flex no-gutters slider-text js-fullheight align-items-center justify-content-end" data-scrollax-parent="true">
-          	<div class="one-third order-md-last img js-fullheight" style="background-image:url(images/bg_1.jpg);">
+          	<div class="one-third order-md-last img js-fullheight" style="background-image:url(images/bg_5.png);">
           		<div class="overlay"></div>
           	</div>
 	          <div class="one-forth d-flex js-fullheight align-items-center ftco-animate" data-scrollax=" properties: { translateY: '70%' }">
@@ -68,7 +68,7 @@
       	<div class="overlay"></div>
         <div class="container-fluid p-0">
           <div class="row d-flex no-gutters slider-text js-fullheight align-items-center justify-content-end" data-scrollax-parent="true">
-          	<div class="one-third order-md-last img js-fullheight" style="background-image:url(images/bg_2.jpg);">
+          	<div class="one-third order-md-last img js-fullheight" style="background-image:url(images/bg_6.png);">
           		<div class="overlay"></div>
           	</div>
 	          <div class="one-forth d-flex js-fullheight align-items-center ftco-animate" data-scrollax=" properties: { translateY: '70%' }">
@@ -157,7 +157,7 @@
 </section>
 
 
-<section class="ftco-section-2 img" style="background-image: url(images/bg_3.jpg);">
+<section class="ftco-section-2 img" style="background-image: url(images/plan_de_travail.png);">
     <div class="container">
         <div class="row d-md-flex justify-content-end">
             <div class="col-md-6">
@@ -288,39 +288,6 @@
     </div>
 </section>
 
-<!--
-
-<section class="ftco-counter img ftco-section ftco-no-pt ftco-no-pb" id="about-section">
-    <div class="container">
-        <div class="row d-flex">
-            <div class="col-md-6 col-lg-5 d-flex">
-                <div class="img d-flex align-self-stretch align-items-center" style="background-image:url(images/about.jpg);">
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-7 pl-lg-5 py-5">
-                <div class="py-md-5">
-                    <div class="row justify-content-start pb-3">
-                        <div class="col-md-12 heading-section ftco-animate">
-                            <span class="subheading">Bienvenue chez Yecard</span>
-                            <h2 class="mb-4" style="font-size: 34px; text-transform: capitalize;">Nous Sommes une Agence Digitale</h2>
-                            <p>Une petite rivière nommée Duden passe près de notre siège et nous approvisionne avec les éléments nécessaires. C'est un pays paradisiaque où des parties de phrases rôties volent dans votre bouche.</p>
-                            <p>Même le tout-puissant Pointing n'a aucun contrôle sur les textes aveugles, c'est une vie presque illisible. Un jour, cependant, une petite ligne de texte aveugle du nom de Lorem Ipsum décida de partir pour le lointain Monde de la Grammaire.</p>
-                            <p>Une petite rivière nommée Duden passe près de notre siège et nous approvisionne avec les éléments nécessaires. C'est un pays paradisiaque où des parties de phrases rôties volent dans votre bouche.</p>
-                        </div>
-                    </div>
-                    <div class="counter-wrap ftco-animate d-flex mt-md-3">
-                        <div class="text p-4 bg-primary">
-                            <p class="mb-0">
-                                <span class="number" data-number="20">0</span>
-                                <span>Années d'expérience</span>
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section> -->
 
 
 <section class="ftco-section">
